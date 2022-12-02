@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "939741983496",
+    "project_id": "auth-exrecise2",
+    "storage_bucket": "auth-exrecise2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939741983496:android:13c755858b4c74cd7472bd",
+        "android_client_info": {
+          "package_name": "host.exp.exponent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939741983496-h2r9s8ldp2cmrvo1scn8msnehmt53ld0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAdQvlGsarLEGpTJdiNdKqr9Xp6vYYUBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939741983496-h2r9s8ldp2cmrvo1scn8msnehmt53ld0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939741983496-kjrbfqnuau2ke8hif4dmf1bb5fh6p82t.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
